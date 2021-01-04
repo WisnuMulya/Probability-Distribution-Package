@@ -1,7 +1,7 @@
 from setuptools import setup
 
-setup(name= "distribution",
+setup(name= "distributions",
       version = "0.1",
       description = "Package of Statistical Distributions",
-      packages=["distribution"],
+      packages=["distributions"],
       zip_safe = False)
