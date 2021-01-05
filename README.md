@@ -14,6 +14,12 @@ The source code is hosted on GitHub at: [https://github.com/WisnuMulya/Probabili
     # PyPI
 	pip install pandas
 
+## Usage ##
+After installation, you can import the package as following:
+
+    # Importing the Gaussian and Binomial class
+	from wpm_probability import Gaussian, Binomial
+
 ## Contribution ##
 If you want to contribute to this project and make it beter, your help is very
 welcome.
