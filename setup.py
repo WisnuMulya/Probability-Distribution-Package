@@ -1,7 +1,10 @@
 from setuptools import setup
 
-setup(name= "distributions",
+setup(name= "wpm_probability",
       version = "0.1",
-      description = "Package of Statistical Distributions",
-      packages=["distributions"],
+      description = "Probability distributions objects: Gaussian, Binomial.",
+      author = "Wisnu Mulya",
+      author_email = "wisnu@wisnumulya.com",
+      url="https://github.com/WisnuMulya/Probability-Distribution-Package",
+      packages=["wpm_probability", "matplotlib"],
       zip_safe = False)
