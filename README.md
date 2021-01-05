@@ -1,4 +1,4 @@
-# WPM Probatility Distribution #
+# WPM Probability Distribution #
 
 -------------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ following:
 The source code is hosted on GitHub at: [https://github.com/WisnuMulya/Probability-Distribution-Package](https://github.com/WisnuMulya/Probability-Distribution-Package). 
 
     # PyPI
-	pip install pandas
+	pip install wpm-probability
 
 ## Usage ##
 After installation, you can import the package as following:
