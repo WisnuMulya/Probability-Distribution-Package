@@ -4,7 +4,7 @@ with open("README.md", 'r') as f:
     long_description = f.read()
 
 setup(name= "wpm_probability",
-      version = "0.1",
+      version = "0.1.1",
       description = "Probability distributions objects: Gaussian, Binomial.",
       long_description= long_description,
       long_description_content_type = "text/markdown",
